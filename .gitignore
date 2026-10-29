@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+/venv.bat
+/.venv
+/.gitignore
+/1_imiter_pandas_iris.ipynb
